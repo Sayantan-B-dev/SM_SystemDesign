@@ -1,3 +1,6 @@
+# [Click here for Better UI](https://sayantan-b-dev.github.io/SystemDesign/)
+
+
 | Rank | Playlist Title | Creator | Videos | Avg Length | Total Length | At 1.5x | At 2.0x |
 |------|----------------|---------|--------|------------|--------------|---------|---------|
 | 1 | [System Design Mock Interviews](https://www.youtube.com/playlist?list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq) | IGotAnOffer: Engineering | 8 | 49m 17s | 6h 34m 22s | 4h 22m 54s | 3h 17m 11s |
