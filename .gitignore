@@ -1,0 +1,79 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+venv/
+.env.*
+
+dist/
+build/
+
+*.sqlite3
+
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.env
+.env.*
+
+dist/
+build/
+
+
+*.class
+*.jar
+*.war
+*.ear
+
+target/
+build/
+
+*.log
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Dependencies
+node_modules/
+venv/
+
+# Build
+dist/
+build/
+out/
+
+# IDE
+.vscode/
+.idea/

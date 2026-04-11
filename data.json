@@ -1,0 +1,977 @@
+[
+  {
+    "title": "System Design - Narendra L",
+    "videos": [
+      {
+        "id": "mhUQe4BKZXs",
+        "title": "Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs",
+        "url": "https://www.youtube.com/watch?v=mhUQe4BKZXs",
+        "thumbnail": "https://img.youtube.com/vi/mhUQe4BKZXs/hqdefault.jpg",
+        "index": 1
+      },
+      {
+        "id": "wYk0xPP_P_8",
+        "title": "Twitter system design | twitter Software architecture | twitter interview questions",
+        "url": "https://www.youtube.com/watch?v=wYk0xPP_P_8",
+        "thumbnail": "https://img.youtube.com/vi/wYk0xPP_P_8/hqdefault.jpg",
+        "index": 2
+      },
+      {
+        "id": "exSwQtMxGd4",
+        "title": "SPORTS score update system design | CRICBUZZ System design",
+        "url": "https://www.youtube.com/watch?v=exSwQtMxGd4",
+        "thumbnail": "https://img.youtube.com/vi/exSwQtMxGd4/hqdefault.jpg",
+        "index": 3
+      },
+      {
+        "id": "JQDHz72OA3c",
+        "title": "URL shortener system design | tinyurl system design | bitly system design",
+        "url": "https://www.youtube.com/watch?v=JQDHz72OA3c",
+        "thumbnail": "https://img.youtube.com/vi/JQDHz72OA3c/hqdefault.jpg",
+        "index": 4
+      },
+      {
+        "id": "psQzyFfsUGU",
+        "title": "NETFLIX System design | software architecture for netflix",
+        "url": "https://www.youtube.com/watch?v=psQzyFfsUGU",
+        "thumbnail": "https://img.youtube.com/vi/psQzyFfsUGU/hqdefault.jpg",
+        "index": 5
+      },
+      {
+        "id": "umWABit-wbk",
+        "title": "UBER System design | OLA system design | uber architecture | amazon interview question",
+        "url": "https://www.youtube.com/watch?v=umWABit-wbk",
+        "thumbnail": "https://img.youtube.com/vi/umWABit-wbk/hqdefault.jpg",
+        "index": 6
+      },
+      {
+        "id": "lBAwJgoO3Ek",
+        "title": "BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking",
+        "url": "https://www.youtube.com/watch?v=lBAwJgoO3Ek",
+        "thumbnail": "https://img.youtube.com/vi/lBAwJgoO3Ek/hqdefault.jpg",
+        "index": 7
+      },
+      {
+        "id": "xrYTjaK5QVM",
+        "title": "Amazon interview question: System design / Architecture for auto suggestions | type ahead",
+        "url": "https://www.youtube.com/watch?v=xrYTjaK5QVM",
+        "thumbnail": "https://img.youtube.com/vi/xrYTjaK5QVM/hqdefault.jpg",
+        "index": 8
+      },
+      {
+        "id": "L7LtmfFYjc4",
+        "title": "Whatsapp System design or software architecture",
+        "url": "https://www.youtube.com/watch?v=L7LtmfFYjc4",
+        "thumbnail": "https://img.youtube.com/vi/L7LtmfFYjc4/hqdefault.jpg",
+        "index": 9
+      },
+      {
+        "id": "DUbEgNw-F9c",
+        "title": "Redis system design | Distributed cache System design",
+        "url": "https://www.youtube.com/watch?v=DUbEgNw-F9c",
+        "thumbnail": "https://img.youtube.com/vi/DUbEgNw-F9c/hqdefault.jpg",
+        "index": 10
+      },
+      {
+        "id": "EU81tjgoKoI",
+        "title": "Online games system design frontend PART 1 | online game software architecture",
+        "url": "https://www.youtube.com/watch?v=EU81tjgoKoI",
+        "thumbnail": "https://img.youtube.com/vi/EU81tjgoKoI/hqdefault.jpg",
+        "index": 11
+      },
+      {
+        "id": "K3Z1PY2vr3Q",
+        "title": "Online games System design backend",
+        "url": "https://www.youtube.com/watch?v=K3Z1PY2vr3Q",
+        "thumbnail": "https://img.youtube.com/vi/K3Z1PY2vr3Q/hqdefault.jpg",
+        "index": 12
+      },
+      {
+        "id": "OyTEd9h_CVQ",
+        "title": "Learn System design : Distributed Systems Introduction | Horizontal scaling vertical scaling",
+        "url": "https://www.youtube.com/watch?v=OyTEd9h_CVQ",
+        "thumbnail": "https://img.youtube.com/vi/OyTEd9h_CVQ/hqdefault.jpg",
+        "index": 13
+      },
+      {
+        "id": "l9JSK9OBzA4",
+        "title": "Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem",
+        "url": "https://www.youtube.com/watch?v=l9JSK9OBzA4",
+        "thumbnail": "https://img.youtube.com/vi/l9JSK9OBzA4/hqdefault.jpg",
+        "index": 14
+      },
+      {
+        "id": "ZbyYvTfBlE0",
+        "title": "Learn System design : How distributed datastore works(basics)?",
+        "url": "https://www.youtube.com/watch?v=ZbyYvTfBlE0",
+        "thumbnail": "https://img.youtube.com/vi/ZbyYvTfBlE0/hqdefault.jpg",
+        "index": 15
+      },
+      {
+        "id": "U0xTu6E2CT8",
+        "title": "Dropbox system design | Google drive system design | System design file share and upload",
+        "url": "https://www.youtube.com/watch?v=U0xTu6E2CT8",
+        "thumbnail": "https://img.youtube.com/vi/U0xTu6E2CT8/hqdefault.jpg",
+        "index": 16
+      },
+      {
+        "id": "2auwirNBvGg",
+        "title": "Google Docs System design | Part 1| Operational transformation | differentail synchronisation",
+        "url": "https://www.youtube.com/watch?v=2auwirNBvGg",
+        "thumbnail": "https://img.youtube.com/vi/2auwirNBvGg/hqdefault.jpg",
+        "index": 17
+      },
+      {
+        "id": "U2lVmSlDJhg",
+        "title": "Google Docs System design | part 2| System components explanation micro services arcitecture",
+        "url": "https://www.youtube.com/watch?v=U2lVmSlDJhg",
+        "thumbnail": "https://img.youtube.com/vi/U2lVmSlDJhg/hqdefault.jpg",
+        "index": 18
+      },
+      {
+        "id": "q1qEYM_SESI",
+        "title": "Demystifying Docker",
+        "url": "https://www.youtube.com/watch?v=q1qEYM_SESI",
+        "thumbnail": "https://img.youtube.com/vi/q1qEYM_SESI/hqdefault.jpg",
+        "index": 19
+      },
+      {
+        "id": "v7x75aN9liM",
+        "title": "Distributed Locks | System design basics",
+        "url": "https://www.youtube.com/watch?v=v7x75aN9liM",
+        "thumbnail": "https://img.youtube.com/vi/v7x75aN9liM/hqdefault.jpg",
+        "index": 20
+      }
+    ]
+  },
+  {
+    "title": "System Design Interview Preparation Series",
+    "videos": [
+      {
+        "id": "3loACSxowRU",
+        "title": "System Design and Architecture Interview Preparation Series by FAANG Engineers",
+        "url": "https://www.youtube.com/watch?v=3loACSxowRU",
+        "thumbnail": "https://img.youtube.com/vi/3loACSxowRU/hqdefault.jpg",
+        "index": 1
+      },
+      {
+        "id": "cODCpXtPHbQ",
+        "title": "Database Design Tips | Choosing the Best Database in a System Design Interview",
+        "url": "https://www.youtube.com/watch?v=cODCpXtPHbQ",
+        "thumbnail": "https://img.youtube.com/vi/cODCpXtPHbQ/hqdefault.jpg",
+        "index": 2
+      },
+      {
+        "id": "jk3yvVfNvds",
+        "title": "Google Maps System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=jk3yvVfNvds",
+        "thumbnail": "https://img.youtube.com/vi/jk3yvVfNvds/hqdefault.jpg",
+        "index": 3
+      },
+      {
+        "id": "lYoSd2WCJTo",
+        "title": "Netflix System Design | YouTube System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=lYoSd2WCJTo",
+        "thumbnail": "https://img.youtube.com/vi/lYoSd2WCJTo/hqdefault.jpg",
+        "index": 4
+      },
+      {
+        "id": "EkudBdvbDhs",
+        "title": "Twitter System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=EkudBdvbDhs",
+        "thumbnail": "https://img.youtube.com/vi/EkudBdvbDhs/hqdefault.jpg",
+        "index": 5
+      },
+      {
+        "id": "9-hjBGxuiEs",
+        "title": "Facebook System Design | Instagram System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=9-hjBGxuiEs",
+        "thumbnail": "https://img.youtube.com/vi/9-hjBGxuiEs/hqdefault.jpg",
+        "index": 6
+      },
+      {
+        "id": "Tp8kpMe-ZKw",
+        "title": "Uber System Design | Ola System Design | System Design Interview Question - Grab, Lyft",
+        "url": "https://www.youtube.com/watch?v=Tp8kpMe-ZKw",
+        "thumbnail": "https://img.youtube.com/vi/Tp8kpMe-ZKw/hqdefault.jpg",
+        "index": 7
+      },
+      {
+        "id": "EpASu_1dUdE",
+        "title": "Amazon System Design | Flipkart System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=EpASu_1dUdE",
+        "thumbnail": "https://img.youtube.com/vi/EpASu_1dUdE/hqdefault.jpg",
+        "index": 8
+      },
+      {
+        "id": "RjQjbJ2UJDg",
+        "title": "WhatsApp System Design | FB Messenger System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=RjQjbJ2UJDg",
+        "thumbnail": "https://img.youtube.com/vi/RjQjbJ2UJDg/hqdefault.jpg",
+        "index": 9
+      },
+      {
+        "id": "G32ThJakeHk",
+        "title": "Zoom System Design | WhatsApp / FB Video Calling System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=G32ThJakeHk",
+        "thumbnail": "https://img.youtube.com/vi/G32ThJakeHk/hqdefault.jpg",
+        "index": 10
+      },
+      {
+        "id": "AVztRY77xxA",
+        "title": "TinyURL System Design | URL Shortner System Design Interview Question | Bitly System Design",
+        "url": "https://www.youtube.com/watch?v=AVztRY77xxA",
+        "thumbnail": "https://img.youtube.com/vi/AVztRY77xxA/hqdefault.jpg",
+        "index": 11
+      },
+      {
+        "id": "YyOXt2MEkv4",
+        "title": "Airbnb System Design | Booking.com System Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=YyOXt2MEkv4",
+        "thumbnail": "https://img.youtube.com/vi/YyOXt2MEkv4/hqdefault.jpg",
+        "index": 12
+      },
+      {
+        "id": "CUwt9_l0DOg",
+        "title": "Notification Service System Design Interview Question to handle Billions of users & Notifications",
+        "url": "https://www.youtube.com/watch?v=CUwt9_l0DOg",
+        "thumbnail": "https://img.youtube.com/vi/CUwt9_l0DOg/hqdefault.jpg",
+        "index": 13
+      },
+      {
+        "id": "4Q2fokImKfM",
+        "title": "System Design Interview - Tips & Tricks | Biggest Mistakes to Avoid",
+        "url": "https://www.youtube.com/watch?v=4Q2fokImKfM",
+        "thumbnail": "https://img.youtube.com/vi/4Q2fokImKfM/hqdefault.jpg",
+        "index": 14
+      }
+    ]
+  },
+  {
+    "title": "System Design Walkthroughs",
+    "videos": [
+      {
+        "id": "fhdPyoO6aXI",
+        "title": "System Design Interview: Design Ticketmaster w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=fhdPyoO6aXI",
+        "thumbnail": "https://img.youtube.com/vi/fhdPyoO6aXI/hqdefault.jpg",
+        "index": 1
+      },
+      {
+        "id": "lsKU38RKQSo",
+        "title": "Design Uber w/ a Ex-Meta Staff Engineer: System Design Interview breakdown",
+        "url": "https://www.youtube.com/watch?v=lsKU38RKQSo",
+        "thumbnail": "https://img.youtube.com/vi/lsKU38RKQSo/hqdefault.jpg",
+        "index": 2
+      },
+      {
+        "id": "_UZ1ngy-kOI",
+        "title": "Design Dropbox or Google Drive w/ a Ex-Meta Staff Engineer System Design Interview",
+        "url": "https://www.youtube.com/watch?v=_UZ1ngy-kOI",
+        "thumbnail": "https://img.youtube.com/vi/_UZ1ngy-kOI/hqdefault.jpg",
+        "index": 3
+      },
+      {
+        "id": "iUU4O1sWtJA",
+        "title": "Beginner System Design Interview: Design Bitly w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=iUU4O1sWtJA",
+        "thumbnail": "https://img.youtube.com/vi/iUU4O1sWtJA/hqdefault.jpg",
+        "index": 4
+      },
+      {
+        "id": "Nfa-uUHuFHg",
+        "title": "System Design Interview Walkthrough: Design Twitter",
+        "url": "https://www.youtube.com/watch?v=Nfa-uUHuFHg",
+        "thumbnail": "https://img.youtube.com/vi/Nfa-uUHuFHg/hqdefault.jpg",
+        "index": 5
+      },
+      {
+        "id": "cr6p0n0N-VA",
+        "title": "Design Whatsapp: System Design Interview w/ a Ex-Meta Senior Manager",
+        "url": "https://www.youtube.com/watch?v=cr6p0n0N-VA",
+        "thumbnail": "https://img.youtube.com/vi/cr6p0n0N-VA/hqdefault.jpg",
+        "index": 6
+      },
+      {
+        "id": "Zcv_899yqhI",
+        "title": "Design an Ad Click Aggregator w/ a Ex-Meta Staff Engineer System Design Interview",
+        "url": "https://www.youtube.com/watch?v=Zcv_899yqhI",
+        "thumbnail": "https://img.youtube.com/vi/Zcv_899yqhI/hqdefault.jpg",
+        "index": 7
+      },
+      {
+        "id": "krsuaUp__pM",
+        "title": "Design a Web Crawler System Design Interview w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=krsuaUp__pM",
+        "thumbnail": "https://img.youtube.com/vi/krsuaUp__pM/hqdefault.jpg",
+        "index": 8
+      },
+      {
+        "id": "IUrQ5_g3XKs",
+        "title": "System Design Interview: Design YouTube w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=IUrQ5_g3XKs",
+        "thumbnail": "https://img.youtube.com/vi/IUrQ5_g3XKs/hqdefault.jpg",
+        "index": 9
+      },
+      {
+        "id": "MIJFyUPG4Z4",
+        "title": "Design a Distributed Rate Limiter w/ a Ex-Meta Staff Engineer: System Design Breakdown",
+        "url": "https://www.youtube.com/watch?v=MIJFyUPG4Z4",
+        "thumbnail": "https://img.youtube.com/vi/MIJFyUPG4Z4/hqdefault.jpg",
+        "index": 10
+      },
+      {
+        "id": "1xHADtekTNg",
+        "title": "System Design Interview: Design LeetCode (Online Judge) w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=1xHADtekTNg",
+        "thumbnail": "https://img.youtube.com/vi/1xHADtekTNg/hqdefault.jpg",
+        "index": 11
+      },
+      {
+        "id": "18Fg5Akhkqw",
+        "title": "System Design Interview: Design Tinder w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=18Fg5Akhkqw",
+        "thumbnail": "https://img.youtube.com/vi/18Fg5Akhkqw/hqdefault.jpg",
+        "index": 12
+      },
+      {
+        "id": "LjLx0fCd1k8",
+        "title": "System Design Interview: Design Live Comments w/ a Ex-Meta Staff Engineer",
+        "url": "https://www.youtube.com/watch?v=LjLx0fCd1k8",
+        "thumbnail": "https://img.youtube.com/vi/LjLx0fCd1k8/hqdefault.jpg",
+        "index": 13
+      },
+      {
+        "id": "Qj4-GruzyDU",
+        "title": "Design FB News Feed System Design Interview w/ ex: Meta Senior Manager",
+        "url": "https://www.youtube.com/watch?v=Qj4-GruzyDU",
+        "thumbnail": "https://img.youtube.com/vi/Qj4-GruzyDU/hqdefault.jpg",
+        "index": 14
+      },
+      {
+        "id": "y-tA2NW4LNY",
+        "title": "Top-K System Design Interview Breakdown w/ Ex-Meta Senior Manager",
+        "url": "https://www.youtube.com/watch?v=y-tA2NW4LNY",
+        "thumbnail": "https://img.youtube.com/vi/y-tA2NW4LNY/hqdefault.jpg",
+        "index": 15
+      },
+      {
+        "id": "l38XL9914fs",
+        "title": "Design FB Post Search: System Design Interview breakdown w/ ex Meta Interviewer",
+        "url": "https://www.youtube.com/watch?v=l38XL9914fs",
+        "thumbnail": "https://img.youtube.com/vi/l38XL9914fs/hqdefault.jpg",
+        "index": 16
+      },
+      {
+        "id": "1oFVUT4_Yy0",
+        "title": "System Design Interview: Design an Ad Click Aggregator w/ a Ex-Meta Staff Engineer (old)",
+        "url": "https://www.youtube.com/watch?v=1oFVUT4_Yy0",
+        "thumbnail": "https://img.youtube.com/vi/1oFVUT4_Yy0/hqdefault.jpg",
+        "index": 17
+      },
+      {
+        "id": "1lfktgZ9Eeo",
+        "title": "[Private video]",
+        "url": "https://www.youtube.com/watch?v=1lfktgZ9Eeo",
+        "thumbnail": "https://img.youtube.com/vi/1lfktgZ9Eeo/hqdefault.jpg",
+        "index": 18
+      }
+    ]
+  },
+  {
+    "title": "System design mock interviews",
+    "videos": [
+      {
+        "id": "_K-eupuDVEc",
+        "title": "Google system design interview: Design Spotify (with ex-Google EM)",
+        "url": "https://www.youtube.com/watch?v=_K-eupuDVEc",
+        "thumbnail": "https://img.youtube.com/vi/_K-eupuDVEc/hqdefault.jpg",
+        "index": 1
+      },
+      {
+        "id": "NHqdG-aZxOk",
+        "title": "Google system design interview: Design TikTok (with ex-Google EM)",
+        "url": "https://www.youtube.com/watch?v=NHqdG-aZxOk",
+        "thumbnail": "https://img.youtube.com/vi/NHqdG-aZxOk/hqdefault.jpg",
+        "index": 2
+      },
+      {
+        "id": "Zvr-ffhvw0Y",
+        "title": "System design interview: Design Robinhood (with ex-Google SWE)",
+        "url": "https://www.youtube.com/watch?v=Zvr-ffhvw0Y",
+        "thumbnail": "https://img.youtube.com/vi/Zvr-ffhvw0Y/hqdefault.jpg",
+        "index": 3
+      },
+      {
+        "id": "3yW856jAbZA",
+        "title": "Twitter system design mock interview (with Senior Software Engineer)",
+        "url": "https://www.youtube.com/watch?v=3yW856jAbZA",
+        "thumbnail": "https://img.youtube.com/vi/3yW856jAbZA/hqdefault.jpg",
+        "index": 4
+      },
+      {
+        "id": "4_qu1F9BXow",
+        "title": "Design file-sharing system like Google Drive / Dropbox  (System design interview with EM)",
+        "url": "https://www.youtube.com/watch?v=4_qu1F9BXow",
+        "thumbnail": "https://img.youtube.com/vi/4_qu1F9BXow/hqdefault.jpg",
+        "index": 5
+      },
+      {
+        "id": "hqa2sfoGRlI",
+        "title": "FAANG system design interview: Design YouTube (with FAANG Senior SWE)",
+        "url": "https://www.youtube.com/watch?v=hqa2sfoGRlI",
+        "thumbnail": "https://img.youtube.com/vi/hqa2sfoGRlI/hqdefault.jpg",
+        "index": 6
+      },
+      {
+        "id": "ICu8g9auh8E",
+        "title": "\"Design LinkedIn\" - System design mock with Senior SWE at Amazon",
+        "url": "https://www.youtube.com/watch?v=ICu8g9auh8E",
+        "thumbnail": "https://img.youtube.com/vi/ICu8g9auh8E/hqdefault.jpg",
+        "index": 7
+      },
+      {
+        "id": "B_tGJ65uXZU",
+        "title": "[Private video]",
+        "url": "https://www.youtube.com/watch?v=B_tGJ65uXZU",
+        "thumbnail": "https://img.youtube.com/vi/B_tGJ65uXZU/hqdefault.jpg",
+        "index": 8
+      },
+      {
+        "id": "efaBYHvNvbA",
+        "title": "Google / Meta system design interview: \"Design Google Ads\" (with ex-Meta Staff SWE)",
+        "url": "https://www.youtube.com/watch?v=efaBYHvNvbA",
+        "thumbnail": "https://img.youtube.com/vi/efaBYHvNvbA/hqdefault.jpg",
+        "index": 9
+      }
+    ]
+  },
+  {
+    "title": "Low Level Design from Basics to Advanced",
+    "videos": [
+      {
+        "id": "rliSgjoOFTs",
+        "title": "Ultimate LLD and HLD Roadmap | System Design RoadMap | LLD & HLD Topics to be covered for Interview",
+        "url": "https://www.youtube.com/watch?v=rliSgjoOFTs",
+        "thumbnail": "https://img.youtube.com/vi/rliSgjoOFTs/hqdefault.jpg",
+        "index": 1
+      },
+      {
+        "id": "mQM3V8E13yc",
+        "title": "What is LLD (Low Level Design)",
+        "url": "https://www.youtube.com/watch?v=mQM3V8E13yc",
+        "thumbnail": "https://img.youtube.com/vi/mQM3V8E13yc/hqdefault.jpg",
+        "index": 2
+      },
+      {
+        "id": "XI7zep97c-Y",
+        "title": "1. SOLID Principles with Easy Examples (Hindi) | OOPs SOLID Principles - Low Level Design",
+        "url": "https://www.youtube.com/watch?v=XI7zep97c-Y",
+        "thumbnail": "https://img.youtube.com/vi/XI7zep97c-Y/hqdefault.jpg",
+        "index": 3
+      },
+      {
+        "id": "129QkkXUHeQ",
+        "title": "1.1 Liskov Substitution Principle (LSP) with Solution in Java - SOLID Principles of Low Level Design",
+        "url": "https://www.youtube.com/watch?v=129QkkXUHeQ",
+        "thumbnail": "https://img.youtube.com/vi/129QkkXUHeQ/hqdefault.jpg",
+        "index": 4
+      },
+      {
+        "id": "u8DttUrXtEw",
+        "title": "2. Strategy Design Pattern explanation (Hindi) | LLD System Design  | Design pattern in Java",
+        "url": "https://www.youtube.com/watch?v=u8DttUrXtEw",
+        "thumbnail": "https://img.youtube.com/vi/u8DttUrXtEw/hqdefault.jpg",
+        "index": 5
+      },
+      {
+        "id": "Ep9_Zcgst3U",
+        "title": "3. Observer Design Pattern Explanation (Hindi) | Design Interview Question | LLD System Design",
+        "url": "https://www.youtube.com/watch?v=Ep9_Zcgst3U",
+        "thumbnail": "https://img.youtube.com/vi/Ep9_Zcgst3U/hqdefault.jpg",
+        "index": 6
+      },
+      {
+        "id": "w6a9MXUwcfY",
+        "title": "4. Decorator Design Pattern Explanation with Java Coding (Hindi) | LLD System Design",
+        "url": "https://www.youtube.com/watch?v=w6a9MXUwcfY",
+        "thumbnail": "https://img.youtube.com/vi/w6a9MXUwcfY/hqdefault.jpg",
+        "index": 7
+      },
+      {
+        "id": "7g9S371qzwM",
+        "title": "5. Factory Pattern Vs Abstract Factory Pattern Explanation (Hindi) | Low Level System Design",
+        "url": "https://www.youtube.com/watch?v=7g9S371qzwM",
+        "thumbnail": "https://img.youtube.com/vi/7g9S371qzwM/hqdefault.jpg",
+        "index": 8
+      },
+      {
+        "id": "MtjZf7291zc",
+        "title": "6. Parking Lot, Low Level Design (Hindi) | SDE2 Design interview question | Design Parking Lot",
+        "url": "https://www.youtube.com/watch?v=MtjZf7291zc",
+        "thumbnail": "https://img.youtube.com/vi/MtjZf7291zc/hqdefault.jpg",
+        "index": 9
+      },
+      {
+        "id": "x8N3fINNdTE",
+        "title": "7. Design Tic Tac Toe game (Hindi) | Tic-Tac-Toe LLD Java | Low Level Design, System Design",
+        "url": "https://www.youtube.com/watch?v=x8N3fINNdTE",
+        "thumbnail": "https://img.youtube.com/vi/x8N3fINNdTE/hqdefault.jpg",
+        "index": 10
+      },
+      {
+        "id": "9ORcPv_Tbz8",
+        "title": "8. Elevator System, Low Level Design (Hindi) | SDE LLD interview question | Design Elevator System",
+        "url": "https://www.youtube.com/watch?v=9ORcPv_Tbz8",
+        "thumbnail": "https://img.youtube.com/vi/9ORcPv_Tbz8/hqdefault.jpg",
+        "index": 11
+      },
+      {
+        "id": "J4GO6hmR6TA",
+        "title": "9. LLD of Car Rental System (Hindi) | ZoomCar Low Level Design | System Design Interview Question",
+        "url": "https://www.youtube.com/watch?v=J4GO6hmR6TA",
+        "thumbnail": "https://img.youtube.com/vi/J4GO6hmR6TA/hqdefault.jpg",
+        "index": 12
+      },
+      {
+        "id": "gvIn5QBdGDk",
+        "title": "10. Design Logging System (Hindi) | Chain of Responsibility Design Pattern | System Design interview",
+        "url": "https://www.youtube.com/watch?v=gvIn5QBdGDk",
+        "thumbnail": "https://img.youtube.com/vi/gvIn5QBdGDk/hqdefault.jpg",
+        "index": 13
+      },
+      {
+        "id": "88bcV-XV0wo",
+        "title": "11. LLD of Snake and Ladder game (Hindi) | SDE system design interview question, Java implementation",
+        "url": "https://www.youtube.com/watch?v=88bcV-XV0wo",
+        "thumbnail": "https://img.youtube.com/vi/88bcV-XV0wo/hqdefault.jpg",
+        "index": 14
+      },
+      {
+        "id": "AsAymWn7D40",
+        "title": "12. Hashmap Internal Implementation in java  (Hindi) | Implementing your HashMap in Java",
+        "url": "https://www.youtube.com/watch?v=AsAymWn7D40",
+        "thumbnail": "https://img.youtube.com/vi/AsAymWn7D40/hqdefault.jpg",
+        "index": 15
+      },
+      {
+        "id": "9MxHKlVc6ZM",
+        "title": "13. Proxy Design Pattern Explanation (Hindi) | LLD | System Design Interview Question | Java",
+        "url": "https://www.youtube.com/watch?v=9MxHKlVc6ZM",
+        "thumbnail": "https://img.youtube.com/vi/9MxHKlVc6ZM/hqdefault.jpg",
+        "index": 16
+      },
+      {
+        "id": "wCyzvDn3Pp8",
+        "title": "14. LLD of BookMyShow (Hindi) | Design MovieTicketBooking | Low Level System Design & Concurrency",
+        "url": "https://www.youtube.com/watch?v=wCyzvDn3Pp8",
+        "thumbnail": "https://img.youtube.com/vi/wCyzvDn3Pp8/hqdefault.jpg",
+        "index": 17
+      },
+      {
+        "id": "D3XhDu--uoI",
+        "title": "System Design: Concurrency Control in Distributed System | Optimistic & Pessimistic Concurrency Lock",
+        "url": "https://www.youtube.com/watch?v=D3XhDu--uoI",
+        "thumbnail": "https://img.youtube.com/vi/D3XhDu--uoI/hqdefault.jpg",
+        "index": 18
+      },
+      {
+        "id": "iDPhxhamuTo",
+        "title": "15. LLD of NULL Object Pattern (Hindi) | Design Null Object Pattern | Design Patterns",
+        "url": "https://www.youtube.com/watch?v=iDPhxhamuTo",
+        "thumbnail": "https://img.youtube.com/vi/iDPhxhamuTo/hqdefault.jpg",
+        "index": 19
+      },
+      {
+        "id": "wOXs5Z_z0Ew",
+        "title": "16. Design Vending Machine (Hindi) | LLD of Vending Machine | State Design Pattern |  LLD question",
+        "url": "https://www.youtube.com/watch?v=wOXs5Z_z0Ew",
+        "thumbnail": "https://img.youtube.com/vi/wOXs5Z_z0Ew/hqdefault.jpg",
+        "index": 20
+      },
+      {
+        "id": "JH7gcXeR3ds",
+        "title": "17. LLD of ATM | ATM Low Level System Design | Design an ATM | Low Level Design Interview question",
+        "url": "https://www.youtube.com/watch?v=JH7gcXeR3ds",
+        "thumbnail": "https://img.youtube.com/vi/JH7gcXeR3ds/hqdefault.jpg",
+        "index": 21
+      },
+      {
+        "id": "kk6QkWxz5jM",
+        "title": "18. Design CHESS GAME, LLD Mock Interview | Low Level Design Coding Interview Question",
+        "url": "https://www.youtube.com/watch?v=kk6QkWxz5jM",
+        "thumbnail": "https://img.youtube.com/vi/kk6QkWxz5jM/hqdefault.jpg",
+        "index": 22
+      },
+      {
+        "id": "FLkCkUY7Wu0",
+        "title": "19. Design File System using Composite Design Pattern | Low Level Design Interview Question | LLD",
+        "url": "https://www.youtube.com/watch?v=FLkCkUY7Wu0",
+        "thumbnail": "https://img.youtube.com/vi/FLkCkUY7Wu0/hqdefault.jpg",
+        "index": 23
+      },
+      {
+        "id": "8wrg7IsILhQ",
+        "title": "20. Adapter Design Pattern with Examples, LLD | Low Level Design Interview Question | System Design",
+        "url": "https://www.youtube.com/watch?v=8wrg7IsILhQ",
+        "thumbnail": "https://img.youtube.com/vi/8wrg7IsILhQ/hqdefault.jpg",
+        "index": 24
+      },
+      {
+        "id": "I4xf4STXgmU",
+        "title": "21. LLD of Splitwise | Low Level Design of Splitwise | Design Expense Sharing App like Splitwise",
+        "url": "https://www.youtube.com/watch?v=I4xf4STXgmU",
+        "thumbnail": "https://img.youtube.com/vi/I4xf4STXgmU/hqdefault.jpg",
+        "index": 25
+      },
+      {
+        "id": "6UeDb7ORVPI",
+        "title": "22. Splitwise Simplify Debt Algorithm | LLD of Splitwise | Optimal Account Balancing | LLD Splitwise",
+        "url": "https://www.youtube.com/watch?v=6UeDb7ORVPI",
+        "thumbnail": "https://img.youtube.com/vi/6UeDb7ORVPI/hqdefault.jpg",
+        "index": 26
+      },
+      {
+        "id": "qOLRxN5eVC0",
+        "title": "23. Builder Design Pattern with Examples, LLD | Low Level Design Interview Question | System Design",
+        "url": "https://www.youtube.com/watch?v=qOLRxN5eVC0",
+        "thumbnail": "https://img.youtube.com/vi/qOLRxN5eVC0/hqdefault.jpg",
+        "index": 27
+      },
+      {
+        "id": "P0TJIONZi8E",
+        "title": "24. LLD of Cricbuzz/CricInfo | Cricbuzz Low Level System Design | Design Cricbuzz | Low Level Design",
+        "url": "https://www.youtube.com/watch?v=P0TJIONZi8E",
+        "thumbnail": "https://img.youtube.com/vi/P0TJIONZi8E/hqdefault.jpg",
+        "index": 28
+      },
+      {
+        "id": "GYaBXK54eLo",
+        "title": "25. Facade Design Pattern with Example | Facade Low Level Design Pattern | Facade Pattern LLD Java",
+        "url": "https://www.youtube.com/watch?v=GYaBXK54eLo",
+        "thumbnail": "https://img.youtube.com/vi/GYaBXK54eLo/hqdefault.jpg",
+        "index": 29
+      },
+      {
+        "id": "SOw1_W0taBg",
+        "title": "26. Bridge Design Pattern | LLD of Bridge Pattern with Example | Low Level Design of Bridge Pattern",
+        "url": "https://www.youtube.com/watch?v=SOw1_W0taBg",
+        "thumbnail": "https://img.youtube.com/vi/SOw1_W0taBg/hqdefault.jpg",
+        "index": 30
+      },
+      {
+        "id": "OuNOyFg942M",
+        "title": "27. All Creational Design Patterns | Prototype, Singleton, Factory, AbstractFactory, Builder Pattern",
+        "url": "https://www.youtube.com/watch?v=OuNOyFg942M",
+        "thumbnail": "https://img.youtube.com/vi/OuNOyFg942M/hqdefault.jpg",
+        "index": 31
+      },
+      {
+        "id": "upfrQvOgC24",
+        "title": "28. BUG in Double-Checked Locking of Singleton Pattern & its Fix | Low Level System Design Question",
+        "url": "https://www.youtube.com/watch?v=upfrQvOgC24",
+        "thumbnail": "https://img.youtube.com/vi/upfrQvOgC24/hqdefault.jpg",
+        "index": 32
+      },
+      {
+        "id": "DDKdMTFNvxc",
+        "title": "29. LLD of Inventory Management System | Low Level System Design of Inventory Management System",
+        "url": "https://www.youtube.com/watch?v=DDKdMTFNvxc",
+        "thumbnail": "https://img.youtube.com/vi/DDKdMTFNvxc/hqdefault.jpg",
+        "index": 33
+      },
+      {
+        "id": "Mwm6tB3x1do",
+        "title": "30. Design Word Processor using Flyweight Design Pattern | Low Level System Design FlyWeight Pattern",
+        "url": "https://www.youtube.com/watch?v=Mwm6tB3x1do",
+        "thumbnail": "https://img.youtube.com/vi/Mwm6tB3x1do/hqdefault.jpg",
+        "index": 34
+      },
+      {
+        "id": "E1lce5CWhE0",
+        "title": "31. Design Undo, Redo feature with Command Pattern | Command Design Pattern| Low Level System Design",
+        "url": "https://www.youtube.com/watch?v=E1lce5CWhE0",
+        "thumbnail": "https://img.youtube.com/vi/E1lce5CWhE0/hqdefault.jpg",
+        "index": 35
+      },
+      {
+        "id": "WxGtmIBZszk",
+        "title": "32. All Structural Design Patterns | Decorator, Proxy, Composite, Adapter, Bridge, Facade, FlyWeight",
+        "url": "https://www.youtube.com/watch?v=WxGtmIBZszk",
+        "thumbnail": "https://img.youtube.com/vi/WxGtmIBZszk/hqdefault.jpg",
+        "index": 36
+      },
+      {
+        "id": "X7shKHOaYtU",
+        "title": "33. Iterator Design Pattern Explained with Example | Low Level Design",
+        "url": "https://www.youtube.com/watch?v=X7shKHOaYtU",
+        "thumbnail": "https://img.youtube.com/vi/X7shKHOaYtU/hqdefault.jpg",
+        "index": 37
+      },
+      {
+        "id": "bKM2lFPPmmY",
+        "title": "34. Design Online Auction System with Mediator Design Pattern | Low Level System Design",
+        "url": "https://www.youtube.com/watch?v=bKM2lFPPmmY",
+        "thumbnail": "https://img.youtube.com/vi/bKM2lFPPmmY/hqdefault.jpg",
+        "index": 38
+      },
+      {
+        "id": "EfQesfKZ3Jw",
+        "title": "35. LLD: Apply Coupons on Shopping Cart products | Low level design",
+        "url": "https://www.youtube.com/watch?v=EfQesfKZ3Jw",
+        "thumbnail": "https://img.youtube.com/vi/EfQesfKZ3Jw/hqdefault.jpg",
+        "index": 39
+      },
+      {
+        "id": "pDsz-AuFO0g",
+        "title": "36. Visitor Design Pattern | Double Dispatch | Low Level Design",
+        "url": "https://www.youtube.com/watch?v=pDsz-AuFO0g",
+        "thumbnail": "https://img.youtube.com/vi/pDsz-AuFO0g/hqdefault.jpg",
+        "index": 40
+      },
+      {
+        "id": "lJBbvb7p__o",
+        "title": "37. MVC Design Pattern | MVC Architecture Overview | Low Level System Design",
+        "url": "https://www.youtube.com/watch?v=lJBbvb7p__o",
+        "thumbnail": "https://img.youtube.com/vi/lJBbvb7p__o/hqdefault.jpg",
+        "index": 41
+      },
+      {
+        "id": "nTo7e2lpGZ4",
+        "title": "38. Memento Design Pattern explanation | LLD System Design | Design pattern explanation in Java",
+        "url": "https://www.youtube.com/watch?v=nTo7e2lpGZ4",
+        "thumbnail": "https://img.youtube.com/vi/nTo7e2lpGZ4/hqdefault.jpg",
+        "index": 42
+      },
+      {
+        "id": "kwy-G1DEm0M",
+        "title": "39. Template Method Design Pattern Explanation in Java | Concept and Coding LLD | Low Level Design",
+        "url": "https://www.youtube.com/watch?v=kwy-G1DEm0M",
+        "thumbnail": "https://img.youtube.com/vi/kwy-G1DEm0M/hqdefault.jpg",
+        "index": 43
+      },
+      {
+        "id": "fFlPm0pzQYI",
+        "title": "40. Interpreter Design Pattern | LLD System Design | Design pattern explanation in Java",
+        "url": "https://www.youtube.com/watch?v=fFlPm0pzQYI",
+        "thumbnail": "https://img.youtube.com/vi/fFlPm0pzQYI/hqdefault.jpg",
+        "index": 44
+      },
+      {
+        "id": "DBDnUkTobaE",
+        "title": "41. All Behavioral Design Patterns | Strategy, Observer, State, Template, Command, Visitor, Memento",
+        "url": "https://www.youtube.com/watch?v=DBDnUkTobaE",
+        "thumbnail": "https://img.youtube.com/vi/DBDnUkTobaE/hqdefault.jpg",
+        "index": 45
+      },
+      {
+        "id": "Qcr3FhS2vDQ",
+        "title": "42. LLD of Payment Gateway | Low Level Design of Payments App",
+        "url": "https://www.youtube.com/watch?v=Qcr3FhS2vDQ",
+        "thumbnail": "https://img.youtube.com/vi/Qcr3FhS2vDQ/hqdefault.jpg",
+        "index": 46
+      },
+      {
+        "id": "obmc24IHqew",
+        "title": "43. LLD: Object Pool Design Pattern | Creational Design Pattern | Low Level Design",
+        "url": "https://www.youtube.com/watch?v=obmc24IHqew",
+        "thumbnail": "https://img.youtube.com/vi/obmc24IHqew/hqdefault.jpg",
+        "index": 47
+      },
+      {
+        "id": "MRx40JVmmF4",
+        "title": "Mock Low Level System Design Interview with Qualcomm Sr. Engineer - Design Meeting Scheduler",
+        "url": "https://www.youtube.com/watch?v=MRx40JVmmF4",
+        "thumbnail": "https://img.youtube.com/vi/MRx40JVmmF4/hqdefault.jpg",
+        "index": 48
+      }
+    ]
+  },
+  {
+    "title": "System Design Playlist",
+    "videos": [
+      {
+        "id": "SqcXvc3ZmRU",
+        "title": "System Design Primer \u2b50\ufe0f: How to start with distributed systems?",
+        "url": "https://www.youtube.com/watch?v=SqcXvc3ZmRU",
+        "thumbnail": "https://img.youtube.com/vi/SqcXvc3ZmRU/hqdefault.jpg",
+        "index": 1
+      },
+      {
+        "id": "xpDnVSmNFX0",
+        "title": "System Design BASICS: Horizontal vs. Vertical Scaling",
+        "url": "https://www.youtube.com/watch?v=xpDnVSmNFX0",
+        "thumbnail": "https://img.youtube.com/vi/xpDnVSmNFX0/hqdefault.jpg",
+        "index": 2
+      },
+      {
+        "id": "K0Ta65OqQkY",
+        "title": "What is LOAD BALANCING? \u2696\ufe0f",
+        "url": "https://www.youtube.com/watch?v=K0Ta65OqQkY",
+        "thumbnail": "https://img.youtube.com/vi/K0Ta65OqQkY/hqdefault.jpg",
+        "index": 3
+      },
+      {
+        "id": "zaRkONvyGr8",
+        "title": "What is CONSISTENT HASHING and Where is it used?",
+        "url": "https://www.youtube.com/watch?v=zaRkONvyGr8",
+        "thumbnail": "https://img.youtube.com/vi/zaRkONvyGr8/hqdefault.jpg",
+        "index": 4
+      },
+      {
+        "id": "oUJbuFMyBDk",
+        "title": "What is a MESSAGE QUEUE and Where is it used?",
+        "url": "https://www.youtube.com/watch?v=oUJbuFMyBDk",
+        "thumbnail": "https://img.youtube.com/vi/oUJbuFMyBDk/hqdefault.jpg",
+        "index": 5
+      },
+      {
+        "id": "qYhRvH9tJKw",
+        "title": "What is a MICROSERVICE ARCHITECTURE and what are its advantages?",
+        "url": "https://www.youtube.com/watch?v=qYhRvH9tJKw",
+        "thumbnail": "https://img.youtube.com/vi/qYhRvH9tJKw/hqdefault.jpg",
+        "index": 6
+      },
+      {
+        "id": "5faMjKuB9bc",
+        "title": "What is DATABASE SHARDING?",
+        "url": "https://www.youtube.com/watch?v=5faMjKuB9bc",
+        "thumbnail": "https://img.youtube.com/vi/5faMjKuB9bc/hqdefault.jpg",
+        "index": 7
+      },
+      {
+        "id": "zw7VwIlkPPc",
+        "title": "Caching in distributed systems: A friendly introduction",
+        "url": "https://www.youtube.com/watch?v=zw7VwIlkPPc",
+        "thumbnail": "https://img.youtube.com/vi/zw7VwIlkPPc/hqdefault.jpg",
+        "index": 8
+      },
+      {
+        "id": "-BOysyYErLY",
+        "title": "How to avoid a single point of failure in distributed systems \u2705",
+        "url": "https://www.youtube.com/watch?v=-BOysyYErLY",
+        "thumbnail": "https://img.youtube.com/vi/-BOysyYErLY/hqdefault.jpg",
+        "index": 9
+      },
+      {
+        "id": "b4_6thkYZXs",
+        "title": "What is a CDN (Content Delivery Network)?",
+        "url": "https://www.youtube.com/watch?v=b4_6thkYZXs",
+        "thumbnail": "https://img.youtube.com/vi/b4_6thkYZXs/hqdefault.jpg",
+        "index": 10
+      },
+      {
+        "id": "FMhbR_kQeHw",
+        "title": "What is the Publisher Subscriber Model?",
+        "url": "https://www.youtube.com/watch?v=FMhbR_kQeHw",
+        "thumbnail": "https://img.youtube.com/vi/FMhbR_kQeHw/hqdefault.jpg",
+        "index": 11
+      },
+      {
+        "id": "rJHTK2TfZ1I",
+        "title": "What's an Event Driven System?",
+        "url": "https://www.youtube.com/watch?v=rJHTK2TfZ1I",
+        "thumbnail": "https://img.youtube.com/vi/rJHTK2TfZ1I/hqdefault.jpg",
+        "index": 12
+      },
+      {
+        "id": "xQnIN9bW0og",
+        "title": "Introduction to NoSQL databases",
+        "url": "https://www.youtube.com/watch?v=xQnIN9bW0og",
+        "thumbnail": "https://img.youtube.com/vi/xQnIN9bW0og/hqdefault.jpg",
+        "index": 13
+      },
+      {
+        "id": "_YlYuNMTCc8",
+        "title": "What is an API and how do you design it? \ud83d\uddd2\ufe0f\u2705",
+        "url": "https://www.youtube.com/watch?v=_YlYuNMTCc8",
+        "thumbnail": "https://img.youtube.com/vi/_YlYuNMTCc8/hqdefault.jpg",
+        "index": 14
+      },
+      {
+        "id": "tndzLznxq40",
+        "title": "System Design: TINDER as a microservice architecture",
+        "url": "https://www.youtube.com/watch?v=tndzLznxq40",
+        "thumbnail": "https://img.youtube.com/vi/tndzLznxq40/hqdefault.jpg",
+        "index": 15
+      },
+      {
+        "id": "QmX2NPkJTKg",
+        "title": "Designing INSTAGRAM: System Design of News Feed",
+        "url": "https://www.youtube.com/watch?v=QmX2NPkJTKg",
+        "thumbnail": "https://img.youtube.com/vi/QmX2NPkJTKg/hqdefault.jpg",
+        "index": 16
+      },
+      {
+        "id": "vvhC64hQZMk",
+        "title": "WHATSAPP System Design: Chat Messaging Systems for Interviews",
+        "url": "https://www.youtube.com/watch?v=vvhC64hQZMk",
+        "thumbnail": "https://img.youtube.com/vi/vvhC64hQZMk/hqdefault.jpg",
+        "index": 17
+      },
+      {
+        "id": "x9Hrn0oNmJM",
+        "title": "How NETFLIX onboards new content: Video Processing at scale \ud83c\udfa5",
+        "url": "https://www.youtube.com/watch?v=x9Hrn0oNmJM",
+        "thumbnail": "https://img.youtube.com/vi/x9Hrn0oNmJM/hqdefault.jpg",
+        "index": 18
+      },
+      {
+        "id": "0myM0k1mjZw",
+        "title": "Capacity Planning and Estimation: How much data does YouTube store daily?",
+        "url": "https://www.youtube.com/watch?v=0myM0k1mjZw",
+        "thumbnail": "https://img.youtube.com/vi/0myM0k1mjZw/hqdefault.jpg",
+        "index": 19
+      },
+      {
+        "id": "_5vrfuwhvlQ",
+        "title": "How databases scale writes: The power of the log \u270d\ufe0f\ud83d\uddd2\ufe0f",
+        "url": "https://www.youtube.com/watch?v=_5vrfuwhvlQ",
+        "thumbnail": "https://img.youtube.com/vi/_5vrfuwhvlQ/hqdefault.jpg",
+        "index": 20
+      },
+      {
+        "id": "GeGxgmPTe4c",
+        "title": "Distributed Consensus and Data Replication strategies on the server",
+        "url": "https://www.youtube.com/watch?v=GeGxgmPTe4c",
+        "thumbnail": "https://img.youtube.com/vi/GeGxgmPTe4c/hqdefault.jpg",
+        "index": 21
+      },
+      {
+        "id": "OcUKFIjhKu0",
+        "title": "Designing a location database: QuadTrees and Hilbert Curves",
+        "url": "https://www.youtube.com/watch?v=OcUKFIjhKu0",
+        "thumbnail": "https://img.youtube.com/vi/OcUKFIjhKu0/hqdefault.jpg",
+        "index": 22
+      },
+      {
+        "id": "m4q7VkgDWrM",
+        "title": "Data Consistency and Tradeoffs in Distributed Systems",
+        "url": "https://www.youtube.com/watch?v=m4q7VkgDWrM",
+        "thumbnail": "https://img.youtube.com/vi/m4q7VkgDWrM/hqdefault.jpg",
+        "index": 23
+      },
+      {
+        "id": "07BVxmVFDGY",
+        "title": "System Design Interview: TikTok architecture with @sudoCODE",
+        "url": "https://www.youtube.com/watch?v=07BVxmVFDGY",
+        "thumbnail": "https://img.youtube.com/vi/07BVxmVFDGY/hqdefault.jpg",
+        "index": 24
+      },
+      {
+        "id": "CtmBGH8MkX4",
+        "title": "5 Tips for System Design Interviews",
+        "url": "https://www.youtube.com/watch?v=CtmBGH8MkX4",
+        "thumbnail": "https://img.youtube.com/vi/CtmBGH8MkX4/hqdefault.jpg",
+        "index": 25
+      },
+      {
+        "id": "CC-AxHIgBSM",
+        "title": "System Design Walkthrough at InterviewReady - Designed for SDE 1 to SDE 3 Interview Preparation",
+        "url": "https://www.youtube.com/watch?v=CC-AxHIgBSM",
+        "thumbnail": "https://img.youtube.com/vi/CC-AxHIgBSM/hqdefault.jpg",
+        "index": 26
+      }
+    ]
+  }
+]
