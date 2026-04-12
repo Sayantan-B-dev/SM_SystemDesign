@@ -221,6 +221,11 @@ header {
   font-size: 1.25rem;
   letter-spacing: -0.04em;
   line-height: 1.2;
+  text-decoration: none;
+  color: inherit
+}
+.playlist-title:hover {
+  text-decoration: underline;
 }
 .playlist-meta {
   display: flex;

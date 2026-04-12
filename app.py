@@ -1,37 +1,34 @@
 import json
 import time
+import sys
 from yt_dlp import YoutubeDL
 
-playlists = [
-    "https://www.youtube.com/playlist?list=PLBOF4WeJq7eojK4BAcCRYuJduBq7QibDh",
-    "https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3",
-    "https://www.youtube.com/playlist?list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM",
-    "https://www.youtube.com/playlist?list=PLf3F6FcQwgqEpnucyupbIqzxyvFOz9uDq",
-    "https://www.youtube.com/playlist?list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW",
-    "https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX"
-]
+# ---------- LOAD FROM links.json ----------
+with open("links.json", "r", encoding="utf-8") as f:
+    data_json = json.load(f)
+    playlists = data_json.get("playlists", [])
 
-# Options for yt-dlp: extract full info, no download, quiet but show progress
+# ---------- YT-DLP OPTIONS ----------
 ydl_opts = {
-    'quiet': False,          # Show some output to see progress
+    'quiet': False,
     'no_warnings': False,
-    'extract_flat': False,   # Get detailed metadata for each video
-    'ignoreerrors': True,    # Skip videos that are unavailable
+    'extract_flat': False,
+    'ignoreerrors': True,
     'no_color': True,
 }
 
+# ---------- EXTRACT FUNCTION ----------
 def extract_video_details(entry):
-    """Extract a rich set of fields from a video info dict."""
     return {
         "id": entry.get("id"),
         "title": entry.get("title"),
         "url": f"https://www.youtube.com/watch?v={entry.get('id')}",
         "thumbnail": entry.get("thumbnail") or f"https://img.youtube.com/vi/{entry.get('id')}/hqdefault.jpg",
-        "index": entry.get("playlist_index"),   # position in playlist
+        "index": entry.get("playlist_index"),
         "duration_seconds": entry.get("duration"),
         "view_count": entry.get("view_count"),
-        "like_count": entry.get("like_count"),   # may be None if disabled
-        "upload_date": entry.get("upload_date"), # YYYYMMDD
+        "like_count": entry.get("like_count"),
+        "upload_date": entry.get("upload_date"),
         "uploader": entry.get("uploader"),
         "uploader_id": entry.get("uploader_id"),
         "channel": entry.get("channel"),
@@ -47,46 +44,61 @@ def extract_video_details(entry):
         "release_date": entry.get("release_date"),
         "modified_date": entry.get("modified_date"),
         "comment_count": entry.get("comment_count"),
-        "average_rating": entry.get("average_rating"),   # deprecated, might be None
+        "average_rating": entry.get("average_rating"),
         "playlist_count": entry.get("playlist_count"),
         "track": entry.get("track"),
         "artist": entry.get("artist"),
         "album": entry.get("album"),
     }
 
-data = []
+# ---------- PROGRESS BAR ----------
+def progress_bar(current, total, prefix="", length=30):
+    percent = current / total if total else 0
+    filled = int(length * percent)
+    bar = "█" * filled + "-" * (length - filled)
+    sys.stdout.write(f"\r{prefix} |{bar}| {current}/{total} ({percent*100:.1f}%)")
+    sys.stdout.flush()
 
+data = []
+total_playlists = len(playlists)
+
+# ---------- PROCESS ----------
 with YoutubeDL(ydl_opts) as ydl:
-    for playlist_url in playlists:
-        print(f"\n🔍 Fetching playlist: {playlist_url}")
+    for p_idx, playlist_url in enumerate(playlists, start=1):
+        print(f"\n\n🔍 Playlist {p_idx}/{total_playlists}")
+        print(f"URL: {playlist_url}")
+
         try:
             playlist_info = ydl.extract_info(playlist_url, download=False)
         except Exception as e:
-            print(f"❌ Failed to extract playlist: {e}")
+            print(f"❌ Failed: {e}")
             continue
 
         playlist_title = playlist_info.get("title", "Unknown Title")
-        print(f"📁 Playlist: {playlist_title}")
+        print(f"📁 {playlist_title}")
 
         videos = []
         entries = playlist_info.get("entries", [])
+        total_videos = len(entries)
 
         for idx, entry in enumerate(entries, start=1):
+            # ---------- UPDATE PROGRESS ----------
+            progress_bar(idx, total_videos, prefix="Processing")
+
             if entry is None:
-                print(f"   ⚠️ Skipping unavailable video at position {idx}")
                 continue
 
-            # entry already contains full metadata because extract_flat=False
             video_data = extract_video_details(entry)
-            # Ensure index is set correctly if missing
+
             if not video_data["index"]:
                 video_data["index"] = idx
 
             videos.append(video_data)
-            print(f"   ✓ {video_data['index']:3d}. {video_data['title'][:50]}")
 
-            # Be nice to YouTube – small delay between videos
+            # keep your delay
             time.sleep(0.2)
+
+        print()  # newline after progress bar
 
         data.append({
             "title": playlist_title,
@@ -94,7 +106,7 @@ with YoutubeDL(ydl_opts) as ydl:
             "videos": videos
         })
 
-# Save everything to a JSON file
+# ---------- SAVE ----------
 with open("data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 

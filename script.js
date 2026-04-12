@@ -243,12 +243,20 @@ function renderAll() {
     const section = document.createElement('div');
     section.className = 'playlist-section';
     section.innerHTML = `
-      <div class="playlist-header">
-        <div class="playlist-title">${escapeHtml(playlist.title)}</div>
-        <div class="playlist-meta">
-          ${metaParts.map(p => `<span>${p}</span>`).join('')}
-        </div>
-      </div>
+<div class="playlist-header">
+  <a 
+    href="${playlist.url}" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    class="playlist-title"
+  >
+    ${escapeHtml(playlist.title)}
+  </a>
+
+  <div class="playlist-meta">
+    ${metaParts.map(p => `<span>${p}</span>`).join('')}
+  </div>
+</div>
       <div class="progress-wrap">
         <div class="progress-track">
           <div class="progress-fill" style="width:${pct}%"></div>

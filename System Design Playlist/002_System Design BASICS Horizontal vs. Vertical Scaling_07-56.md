@@ -1,4 +1,4 @@
 # System Design BASICS Horizontal vs. Vertical Scaling
 
 Duration: 07:56
-URL: None
+URL: https://www.youtube.com/watch?v=xpDnVSmNFX0

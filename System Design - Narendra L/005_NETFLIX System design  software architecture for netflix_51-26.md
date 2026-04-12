@@ -1,4 +1,4 @@
 # NETFLIX System design  software architecture for netflix
 
 Duration: 51:26
-URL: None
+URL: https://www.youtube.com/watch?v=psQzyFfsUGU
