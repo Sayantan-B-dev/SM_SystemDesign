@@ -454,9 +454,11 @@ header {
 /* force actions row clean */
 .card-actions {
   display: flex;
+  align-items: center;
   gap: 6px;
-  flex-wrap: nowrap; /* prevent wrapping */
+  width: 100%;
 }
+
 
 .btn-study {
   font-family: var(--font-ui);
@@ -499,6 +501,7 @@ header {
   gap: 4px;
   white-space: nowrap;
   flex-shrink: 0;
+    margin-left: auto;
 }
 .btn-yt:hover {
   border-color: var(--red);
@@ -506,23 +509,71 @@ header {
   background: rgba(240,90,90,0.06);
 }
 
+/* container */
 .done-wrap {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: 5px;
-  font-size: 0.58rem;
-  color: var(--muted);
+  gap: 6px;
   cursor: pointer;
   user-select: none;
-  white-space: nowrap;
-  margin-left: 0;
+  font-size: 0.58rem;
+  letter-spacing: 0.05em;
+  color: var(--muted);
 }
-.done-wrap input[type=checkbox] {
-  accent-color: var(--accent);
-  width: 13px;
-  height: 13px;
+
+/* hide default checkbox */
+.done-wrap input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 26px;
+  height: 14px;
+  border-radius: 999px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  position: relative;
   cursor: pointer;
-  flex-shrink: 0;
+  transition: background 0.2s, border-color 0.2s;
+  outline: none;
+}
+
+/* inner circle */
+.done-wrap input[type="checkbox"]::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 2px;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--muted);
+  transition: transform 0.2s ease, background 0.2s;
+}
+
+/* checked state */
+.done-wrap input[type="checkbox"]:checked {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.done-wrap input[type="checkbox"]:checked::before {
+  transform: translate(12px, -50%);
+  background: #0a0a0b;
+}
+
+/* label text */
+.done-wrap span {
+  transition: color 0.2s;
+}
+
+/* when checked → highlight text */
+.done-wrap input[type="checkbox"]:checked + span {
+  color: var(--accent);
+}
+
+/* subtle hover */
+.done-wrap:hover input[type="checkbox"] {
+  border-color: var(--border-hi);
 }
 
 /* Notes */
