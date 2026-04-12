@@ -228,16 +228,16 @@ function renderAll() {
     anyVisible = true;
 
     const totalSeconds = playlist.videos.reduce((s, v) => s + (v.duration_seconds || 0), 0);
-    const doneCount = playlist.videos.filter(v => getVS(makeKey(playlist.title, v.index)).done).length;
-    const pct = playlist.videos.length ? Math.round(doneCount / playlist.videos.length * 100) : 0;
-    const remaining = playlist.videos.length - doneCount;
+    const doneDuration = playlist.videos.filter(v => getVS(makeKey(playlist.title, v.index)).done).reduce((s, v) => s + (v.duration_seconds || 0), 0);
+    const pct = totalSeconds ? Math.round(doneDuration / totalSeconds * 100) : 0;
+    const remaining = totalSeconds - doneDuration;
     const hasAnyDuration = playlist.videos.some(v => v.duration_seconds > 0);
     const totalDurStr = hasAnyDuration ? formatDurationLong(totalSeconds) : null;
+    const remainingDurStr = hasAnyDuration ? formatDurationLong(remaining) : null;
 
     const metaParts = [
       `${playlist.videos.length} videos`,
       totalDurStr,
-      `${doneCount} completed`,
     ].filter(Boolean);
 
     const section = document.createElement('div');
@@ -263,7 +263,7 @@ function renderAll() {
         </div>
         <div class="progress-labels">
           <span>${pct}% complete</span>
-          <span>${remaining} remaining</span>
+          <span>${remainingDurStr || 'no duration data'} remaining</span>
         </div>
       </div>
       <div class="cards-scroll"></div>
@@ -311,7 +311,7 @@ function renderAll() {
 
   <!-- Row 2 -->
   <div class="card-actions">
-    <button class="btn-study">${vs.studying ? 'In Progress' : 'Mark In Progress'}</button>
+    <button class="btn-study" ${vs.done ? 'disabled' : ''}>${vs.studying ? 'In Progress' : 'Mark In Progress'}</button>
 
     <a class="btn-yt" href="https://www.youtube.com/watch?v=${video.id}"
        target="_blank" rel="noopener" title="Open in YouTube">
@@ -357,7 +357,11 @@ function renderAll() {
 
       card.querySelector('input[type=checkbox]').addEventListener('change', e => {
         e.stopPropagation();
-        setVS(key, { done: e.target.checked });
+        const updateObj = { done: e.target.checked };
+        if (e.target.checked) {
+          updateObj.studying = false;
+        }
+        setVS(key, updateObj);
         toast(e.target.checked ? 'Marked complete' : 'Marked incomplete');
         updateGlobalStats(); renderAll();
       });
