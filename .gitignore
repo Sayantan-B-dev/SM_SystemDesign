@@ -74,6 +74,9 @@ dist/
 build/
 out/
 
+cookies.txt
+
+
 # IDE
 .vscode/
 .idea/

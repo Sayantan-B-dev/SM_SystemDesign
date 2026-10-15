@@ -1,0 +1,2157 @@
+
+============================================================
+Processing: System Design Playlist (26 files)
+============================================================
+
+  -> 001_System Design Primer ⭐️ How to start with distributed systems_09-22.md
+  [SKIP] Transcript already present
+
+  -> 002_System Design BASICS Horizontal vs. Vertical Scaling_07-56.md
+  [SKIP] Transcript already present
+
+  -> 003_What is LOAD BALANCING ⚖️_13-50.md
+  [SKIP] Transcript already present
+
+  -> 004_What is CONSISTENT HASHING and Where is it used_10-50.md
+  [SKIP] Transcript already present
+
+  -> 005_What is a MESSAGE QUEUE and Where is it used_09-59.md
+  [SKIP] Transcript already present
+
+  -> 006_What is a MICROSERVICE ARCHITECTURE and what are its advantages_08-19.md
+  [SKIP] Transcript already present
+
+  -> 007_What is DATABASE SHARDING_08-56.md
+  [SKIP] Transcript already present
+
+  -> 008_Caching in distributed systems A friendly introduction_11-25.md
+  [SKIP] Transcript already present
+
+  -> 009_How to avoid a single point of failure in distributed systems ✅_06-34.md
+  [SKIP] Transcript already present
+
+  -> 010_What is a CDN (Content Delivery Network)_05-43.md
+  [SKIP] Transcript already present
+
+  -> 011_What is the Publisher Subscriber Model_11-25.md
+  [SKIP] Transcript already present
+
+  -> 012_What's an Event Driven System_14-59.md
+  [SKIP] Transcript already present
+
+  -> 013_Introduction to NoSQL databases_26-18.md
+  [SKIP] Transcript already present
+
+  -> 014_What is an API and how do you design it 🗒️✅_15-26.md
+  [SKIP] Transcript already present
+
+  -> 015_System Design TINDER as a microservice architecture_36-41.md
+  [SKIP] Transcript already present
+
+  -> 016_Designing INSTAGRAM System Design of News Feed_24-29.md
+  [SKIP] Transcript already present
+
+  -> 017_WHATSAPP System Design Chat Messaging Systems for Interviews_25-15.md
+  [SKIP] Transcript already present
+
+  -> 018_How NETFLIX onboards new content Video Processing at scale 🎥_10-44.md
+  [SKIP] Transcript already present
+
+  -> 019_Capacity Planning and Estimation How much data does YouTube store daily_13-12.md
+  Fetching transcript for 0myM0k1mjZw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=0myM0k1mjZw! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 020_How databases scale writes The power of the log ✍️🗒️_17-22.md
+  Fetching transcript for _5vrfuwhvlQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=_5vrfuwhvlQ! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 021_Distributed Consensus and Data Replication strategies on the server_15-48.md
+  Fetching transcript for GeGxgmPTe4c...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=GeGxgmPTe4c! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 022_Designing a location database QuadTrees and Hilbert Curves_22-22.md
+  Fetching transcript for OcUKFIjhKu0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=OcUKFIjhKu0! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 023_Data Consistency and Tradeoffs in Distributed Systems_25-42.md
+  Fetching transcript for m4q7VkgDWrM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=m4q7VkgDWrM! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 024_System Design Interview TikTok architecture with @sudoCODE_45-35.md
+  Fetching transcript for 07BVxmVFDGY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=07BVxmVFDGY! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 025_5 Tips for System Design Interviews_08-19.md
+  Fetching transcript for CtmBGH8MkX4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=CtmBGH8MkX4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 026_System Design Walkthrough at InterviewReady - Designed for SDE 1 to SDE 3 Interview Preparation_04-55.md
+  Fetching transcript for CC-AxHIgBSM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=CC-AxHIgBSM! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+Processing: High Level Design from Basics to Advanced (42 files)
+============================================================
+
+  -> 001_Ultimate LLD and HLD Roadmap  System Design RoadMap  LLD & HLD Topics to be covered for Interview_11-04.md
+  Fetching transcript for rliSgjoOFTs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rliSgjoOFTs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 002_1. Network Protocols (Hindi), High Level Design  Client Server vs P2P Model   webSocket vs WebRTC_14-04.md
+  Fetching transcript for JwTiZ9ENquI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JwTiZ9ENquI! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (JwTiZ9ENquI) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 003_Network Protocols (English Dubbed)  Better with 1.25x playback speed_14-04.md
+  Fetching transcript for S6KQkIxNm_k...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=S6KQkIxNm_k! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 004_2. CAP Theorem (Hindi)  High Level Design for Beginners  CAP Partition Tolerance explained_18-41.md
+  Fetching transcript for 3qRBeZsUa18...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=3qRBeZsUa18! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (3qRBeZsUa18) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 005_CAP Theorem (English Dubbed)  Better with 1.25x playback speed_17-54.md
+  Fetching transcript for SckoiQefVEE...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=SckoiQefVEE! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 006_3. Microservices Design Patterns  Part1 Introduction and Decomposition Pattern  HLD_29-19.md
+  Fetching transcript for l1OCmsBnQ3g...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=l1OCmsBnQ3g! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (l1OCmsBnQ3g) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 007_4. SAGA Pattern  Strangler Pattern  CQRS  Microservices Design Patterns  System Design_30-55.md
+  Fetching transcript for qGlUKtjqaEQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=qGlUKtjqaEQ! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (qGlUKtjqaEQ) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 008_5. Scale from ZERO to MILLION Users (Hindi)  System design interview Scale to 1million users_35-14.md
+  Fetching transcript for rExh5cPMZcI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rExh5cPMZcI! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (rExh5cPMZcI) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 009_Scale from ZERO to MILLION Users (English Dubbed)  Better with 1.25x playback speed_34-40.md
+  Fetching transcript for TKbPkO0VJ1Y...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=TKbPkO0VJ1Y! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 010_6. Consistent Hashing in Hindi with Example  System Design - Consistent Hashing  High Level design_31-46.md
+  Fetching transcript for jqUNbqfsnuw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=jqUNbqfsnuw! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (jqUNbqfsnuw) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 011_Consistent Hashing (English Dubbed)  Better with 1.25x playback speed_31-47.md
+  Fetching transcript for NHvGbXB46qU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NHvGbXB46qU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 012_7. Design URL Shortening Service like TinyURL  Design URL Shortener  System design interview quest_32-15.md
+  Fetching transcript for C7_--hAhiaM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=C7_--hAhiaM! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 013_8. Back-Of-The-Envelope Estimation for System Design Interview  Capacity Planning of Facebook  HLD_32-47.md
+  Fetching transcript for WZjSFNPS9Lo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=WZjSFNPS9Lo! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 014_9. DESIGN A KEY-VALUE STORE  Amazon System Design Interview Quest.  HLD of Key-Value DB & DynamoDB_59-44.md
+  Fetching transcript for VKNIhztQnbY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=VKNIhztQnbY! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 015_10. SQL vs NoSQL  Difference between SQL & NoSQL  SQL Vs NoSQL Tutorial  SQL, NoSQL system design_36-00.md
+  Fetching transcript for fG8c-huFt70...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fG8c-huFt70! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 016_11. Whatsapp System Design  System Design Chat application  System design of Whatsapp application_50-22.md
+  Fetching transcript for a8KUKOh3YXk...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=a8KUKOh3YXk! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 017_12. Design Rate Limiter  API Rate Limiter System Design  Rate Limiting Algorithms  Rate Limiter_33-34.md
+  Fetching transcript for X5daFTDfy2g...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=X5daFTDfy2g! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 018_14. Design Idempotent POST API  System Design to Handle Duplicate Request by Idempotency Handler_36-39.md
+  Fetching transcript for mI73eTlSqeU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mI73eTlSqeU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 019_15. Design High Availability & Resilience System, HLD  Active Passive & Active Active Architecture_27-02.md
+  Fetching transcript for iL7_8TmrePM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iL7_8TmrePM! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 020_16. System Design - Distributed Messaging Queue  Design Messaging Queue like Kafka, RabbitMQ_45-13.md
+  Fetching transcript for oVZtzZVe9Dg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=oVZtzZVe9Dg! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 021_17. Proxy vs Reverse Proxy (Example)  How Proxy differs from VPN, LoadBalancer  SystemDesign_28-45.md
+  Fetching transcript for yeaPUFaXgdA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=yeaPUFaXgdA! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 022_18. Load Balancer & Different Algorithms - System Design  Static & Dynamic Load Balancing Algorithm_23-21.md
+  Fetching transcript for vJYycNWAYZU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=vJYycNWAYZU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 023_19. System Design Distributed Cache and Caching Strategies  Cache-Aside, Write-Through, Write-Back_37-41.md
+  Fetching transcript for RtOyBwBICRs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=RtOyBwBICRs! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 024_20. Handle Distributed Transactions  Two-Phase Commit (2PC), Three-Phase Commit (3PC), SAGA Pattern_43-27.md
+  Fetching transcript for ET_DnJgfplY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ET_DnJgfplY! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 025_21. Database Indexing How DBMS Indexing done to improve search query performance Explained_01-23-52.md
+  Fetching transcript for 6ZquiVH8AGU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6ZquiVH8AGU! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 026_System Design Concurrency Control in Distributed System  Optimistic & Pessimistic Concurrency Lock_01-04-45.md
+  Fetching transcript for D3XhDu--uoI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=D3XhDu--uoI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 027_23. Two Phase Locking (2PL)  System Design_41-25.md
+  Fetching transcript for lceenm34m-w...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lceenm34m-w! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 028_OAuth 2.0 Explained with API Request and Response Sample  High Level System Design_35-24.md
+  Fetching transcript for 3Gx3e3eLKrg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=3Gx3e3eLKrg! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 029_25. Symmetric & Asymmetric Encryption with Explanation of AES, Diffie-Hellman and Digital Signature_51-03.md
+  Fetching transcript for GtSUeAkPEP0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=GtSUeAkPEP0! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 030_JWT Explained  JWT vs SessionID  JSON Web Token  Security Challenges with JWT & its Handling_49-27.md
+  Fetching transcript for gjVYRl167RQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=gjVYRl167RQ! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 031_27. Thundering Herd Effect on Ticket Booking App  System Design_11-42.md
+  Fetching transcript for 1aamH7sA8FY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1aamH7sA8FY! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 032_API GATEWAY and Microservices Architecture  How API Gateway act as a Single Entry Point_23-18.md
+  Fetching transcript for dkgxvnk8cWw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=dkgxvnk8cWw! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 033_Service Mesh and its Architecture  How Microservices Communicate_23-54.md
+  Fetching transcript for eIxdHepOeHw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=eIxdHepOeHw! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 034_How DNS works  System Design of Domain Name System_33-01.md
+  Fetching transcript for QVdX34quUgU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=QVdX34quUgU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 035_In How many Microservices we should divide Monolithic System  How Many Microservices are too many_27-47.md
+  Fetching transcript for NE_LPGHYrMc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NE_LPGHYrMc! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 036_Understand Attacks CSRF, XSS, CORS, SQL Injection with DEMO  Spring Security_24-51.md
+  Fetching transcript for 3pYioNIPj84...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=3pYioNIPj84! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 037_Dual Write Problem  Designing Event-Driven Microservices_41-14.md
+  Fetching transcript for QaH7r4V4RmE...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=QaH7r4V4RmE! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 038_Service Discovery in Microservices  Eureka & its SpringBoot Implementation_41-06.md
+  Fetching transcript for h1mrflwF6Lc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=h1mrflwF6Lc! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 039_Rate Limiter Fault Tolerance in Distributed Microservices  Rate Limiter Implementation_51-28.md
+  Fetching transcript for o9uCQHdh4DU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=o9uCQHdh4DU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 040_Bulkhead Pattern Fault Tolerance in Distributed Microservices_39-19.md
+  Fetching transcript for Ax0ycLJvvfc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Ax0ycLJvvfc! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 041_Retry Pattern Fault Tolerance in Distributed Microservices_42-49.md
+  Fetching transcript for oOFnyUpUDtg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=oOFnyUpUDtg! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 042_Circuit Breaker  Fault Tolerance in Distributed Microservices_31-14.md
+  Fetching transcript for _kCWAf8kEYI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=_kCWAf8kEYI! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+Processing: Low Level Design from Basics to Advanced (48 files)
+============================================================
+
+  -> 001_Ultimate LLD and HLD Roadmap  System Design RoadMap  LLD & HLD Topics to be covered for Interview_11-04.md
+  Fetching transcript for rliSgjoOFTs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=rliSgjoOFTs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 002_What is LLD (Low Level Design)_17-18.md
+  Fetching transcript for mQM3V8E13yc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mQM3V8E13yc! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 003_1. SOLID Principles with Easy Examples (Hindi)  OOPs SOLID Principles - Low Level Design_19-03.md
+  Fetching transcript for XI7zep97c-Y...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=XI7zep97c-Y! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 004_1.1 Liskov Substitution Principle (LSP) with Solution in Java - SOLID Principles of Low Level Design_08-56.md
+  Fetching transcript for 129QkkXUHeQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=129QkkXUHeQ! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 005_2. Strategy Design Pattern explanation (Hindi)  LLD System Design   Design pattern in Java_17-26.md
+  Fetching transcript for u8DttUrXtEw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=u8DttUrXtEw! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (u8DttUrXtEw) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 006_3. Observer Design Pattern Explanation (Hindi)  Design Interview Question  LLD System Design_34-34.md
+  Fetching transcript for Ep9_Zcgst3U...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Ep9_Zcgst3U! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 007_4. Decorator Design Pattern Explanation with Java Coding (Hindi)  LLD System Design_23-00.md
+  Fetching transcript for w6a9MXUwcfY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=w6a9MXUwcfY! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (w6a9MXUwcfY) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 008_5. Factory Pattern Vs Abstract Factory Pattern Explanation (Hindi)  Low Level System Design_12-19.md
+  Fetching transcript for 7g9S371qzwM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=7g9S371qzwM! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 009_6. Parking Lot, Low Level Design (Hindi)  SDE2 Design interview question  Design Parking Lot_56-05.md
+  Fetching transcript for MtjZf7291zc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=MtjZf7291zc! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 010_7. Design Tic Tac Toe game (Hindi)  Tic-Tac-Toe LLD Java  Low Level Design, System Design_19-51.md
+  Fetching transcript for x8N3fINNdTE...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=x8N3fINNdTE! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 011_8. Elevator System, Low Level Design (Hindi)  SDE LLD interview question  Design Elevator System_40-11.md
+  Fetching transcript for 9ORcPv_Tbz8...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9ORcPv_Tbz8! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 012_9. LLD of Car Rental System (Hindi)  ZoomCar Low Level Design  System Design Interview Question_36-56.md
+  Fetching transcript for J4GO6hmR6TA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=J4GO6hmR6TA! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 013_10. Design Logging System (Hindi)  Chain of Responsibility Design Pattern  System Design interview_15-08.md
+  Fetching transcript for gvIn5QBdGDk...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=gvIn5QBdGDk! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (gvIn5QBdGDk) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 014_11. LLD of Snake and Ladder game (Hindi)  SDE system design interview question, Java implementation_31-35.md
+  Fetching transcript for 88bcV-XV0wo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=88bcV-XV0wo! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 015_12. Hashmap Internal Implementation in java  (Hindi)  Implementing your HashMap in Java_30-09.md
+  Fetching transcript for AsAymWn7D40...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=AsAymWn7D40! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (AsAymWn7D40) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+None
+
+(GENERATED)
+ - hi ("Hindi (auto-generated)")
+
+(TRANSLATION LANGUAGES)
+None
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 016_13. Proxy Design Pattern Explanation (Hindi)  LLD  System Design Interview Question  Java_11-49.md
+  Fetching transcript for 9MxHKlVc6ZM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9MxHKlVc6ZM! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 017_14. LLD of BookMyShow (Hindi)  Design MovieTicketBooking  Low Level System Design & Concurrency_35-57.md
+  Fetching transcript for wCyzvDn3Pp8...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wCyzvDn3Pp8! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 018_System Design Concurrency Control in Distributed System  Optimistic & Pessimistic Concurrency Lock_01-04-45.md
+  Fetching transcript for D3XhDu--uoI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=D3XhDu--uoI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 019_15. LLD of NULL Object Pattern (Hindi)  Design Null Object Pattern  Design Patterns_12-04.md
+  Fetching transcript for iDPhxhamuTo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iDPhxhamuTo! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 020_16. Design Vending Machine (Hindi)  LLD of Vending Machine  State Design Pattern   LLD question_45-31.md
+  Fetching transcript for wOXs5Z_z0Ew...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wOXs5Z_z0Ew! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 021_17. LLD of ATM  ATM Low Level System Design  Design an ATM  Low Level Design Interview question_44-32.md
+  Fetching transcript for JH7gcXeR3ds...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JH7gcXeR3ds! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 022_18. Design CHESS GAME, LLD Mock Interview  Low Level Design Coding Interview Question_01-07-24.md
+  Fetching transcript for kk6QkWxz5jM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=kk6QkWxz5jM! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 023_19. Design File System using Composite Design Pattern  Low Level Design Interview Question  LLD_21-30.md
+  Fetching transcript for FLkCkUY7Wu0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=FLkCkUY7Wu0! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 024_20. Adapter Design Pattern with Examples, LLD  Low Level Design Interview Question  System Design_16-45.md
+  Fetching transcript for 8wrg7IsILhQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=8wrg7IsILhQ! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 025_21. LLD of Splitwise  Low Level Design of Splitwise  Design Expense Sharing App like Splitwise_50-04.md
+  Fetching transcript for I4xf4STXgmU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=I4xf4STXgmU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 026_22. Splitwise Simplify Debt Algorithm  LLD of Splitwise  Optimal Account Balancing  LLD Splitwise_32-07.md
+  Fetching transcript for 6UeDb7ORVPI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=6UeDb7ORVPI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 027_23. Builder Design Pattern with Examples, LLD  Low Level Design Interview Question  System Design_26-34.md
+  Fetching transcript for qOLRxN5eVC0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=qOLRxN5eVC0! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 028_24. LLD of CricbuzzCricInfo  Cricbuzz Low Level System Design  Design Cricbuzz  Low Level Design_38-32.md
+  Fetching transcript for P0TJIONZi8E...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=P0TJIONZi8E! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 029_25. Facade Design Pattern with Example  Facade Low Level Design Pattern  Facade Pattern LLD Java_23-23.md
+  Fetching transcript for GYaBXK54eLo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=GYaBXK54eLo! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 030_26. Bridge Design Pattern  LLD of Bridge Pattern with Example  Low Level Design of Bridge Pattern_19-11.md
+  Fetching transcript for SOw1_W0taBg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=SOw1_W0taBg! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 031_27. All Creational Design Patterns  Prototype, Singleton, Factory, AbstractFactory, Builder Pattern_28-49.md
+  Fetching transcript for OuNOyFg942M...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=OuNOyFg942M! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 032_28. BUG in Double-Checked Locking of Singleton Pattern & its Fix  Low Level System Design Question_19-59.md
+  Fetching transcript for upfrQvOgC24...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=upfrQvOgC24! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 033_29. LLD of Inventory Management System  Low Level System Design of Inventory Management System_39-24.md
+  Fetching transcript for DDKdMTFNvxc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DDKdMTFNvxc! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 034_30. Design Word Processor using Flyweight Design Pattern  Low Level System Design FlyWeight Pattern_31-03.md
+  Fetching transcript for Mwm6tB3x1do...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Mwm6tB3x1do! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Basic (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 035_31. Design Undo, Redo feature with Command Pattern  Command Design Pattern Low Level System Design_25-00.md
+  Fetching transcript for E1lce5CWhE0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=E1lce5CWhE0! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 036_32. All Structural Design Patterns  Decorator, Proxy, Composite, Adapter, Bridge, Facade, FlyWeight_51-14.md
+  Fetching transcript for WxGtmIBZszk...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=WxGtmIBZszk! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 037_33. Iterator Design Pattern Explained with Example  Low Level Design_18-28.md
+  Fetching transcript for X7shKHOaYtU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=X7shKHOaYtU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 038_34. Design Online Auction System with Mediator Design Pattern  Low Level System Design_20-00.md
+  Fetching transcript for bKM2lFPPmmY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=bKM2lFPPmmY! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 039_35. LLD Apply Coupons on Shopping Cart products  Low level design_18-50.md
+  Fetching transcript for EfQesfKZ3Jw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EfQesfKZ3Jw! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 040_36. Visitor Design Pattern  Double Dispatch  Low Level Design_33-16.md
+  Fetching transcript for pDsz-AuFO0g...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pDsz-AuFO0g! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 041_37. MVC Design Pattern  MVC Architecture Overview  Low Level System Design_14-47.md
+  Fetching transcript for lJBbvb7p__o...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lJBbvb7p__o! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 042_38. Memento Design Pattern explanation  LLD System Design  Design pattern explanation in Java_14-46.md
+  Fetching transcript for nTo7e2lpGZ4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=nTo7e2lpGZ4! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 043_39. Template Method Design Pattern Explanation in Java  Concept and Coding LLD  Low Level Design_13-29.md
+  Fetching transcript for kwy-G1DEm0M...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=kwy-G1DEm0M! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 044_40. Interpreter Design Pattern  LLD System Design  Design pattern explanation in Java_16-35.md
+  Fetching transcript for fFlPm0pzQYI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fFlPm0pzQYI! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 045_41. All Behavioral Design Patterns  Strategy, Observer, State, Template, Command, Visitor, Memento_47-07.md
+  Fetching transcript for DBDnUkTobaE...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DBDnUkTobaE! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 046_42. LLD of Payment Gateway  Low Level Design of Payments App_47-09.md
+  Fetching transcript for Qcr3FhS2vDQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Qcr3FhS2vDQ! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 047_43. LLD Object Pool Design Pattern  Creational Design Pattern  Low Level Design_19-33.md
+  Fetching transcript for obmc24IHqew...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=obmc24IHqew! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is available to this channel's members on level: Unlock Tier-Advanced (or any higher priced level).
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 048_Mock Low Level System Design Interview with Qualcomm Sr. Engineer - Design Meeting Scheduler_37-23.md
+  Fetching transcript for MRx40JVmmF4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=MRx40JVmmF4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+Processing: System Design - Narendra L (20 files)
+============================================================
+
+  -> 001_Rate Limiting system design  TOKEN BUCKET, Leaky Bucket, Sliding Logs_35-55.md
+  Fetching transcript for mhUQe4BKZXs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=mhUQe4BKZXs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 002_Twitter system design  twitter Software architecture  twitter interview questions_36-56.md
+  Fetching transcript for wYk0xPP_P_8...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=wYk0xPP_P_8! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 003_SPORTS score update system design  CRICBUZZ System design_33-39.md
+  Fetching transcript for exSwQtMxGd4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=exSwQtMxGd4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 004_URL shortener system design  tinyurl system design  bitly system design_34-39.md
+  Fetching transcript for JQDHz72OA3c...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=JQDHz72OA3c! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 005_NETFLIX System design  software architecture for netflix_51-26.md
+  Fetching transcript for psQzyFfsUGU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=psQzyFfsUGU! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 006_UBER System design  OLA system design  uber architecture  amazon interview question_36-56.md
+  Fetching transcript for umWABit-wbk...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=umWABit-wbk! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 007_BOOKMYSHOW System Design, FANDANGO System Design  Software architecture for online ticket booking_27-18.md
+  Fetching transcript for lBAwJgoO3Ek...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lBAwJgoO3Ek! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 008_Amazon interview question System design  Architecture for auto suggestions  type ahead_28-27.md
+  Fetching transcript for xrYTjaK5QVM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=xrYTjaK5QVM! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 009_Whatsapp System design or software architecture_27-40.md
+  Fetching transcript for L7LtmfFYjc4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=L7LtmfFYjc4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 010_Redis system design  Distributed cache System design_34-10.md
+  Fetching transcript for DUbEgNw-F9c...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DUbEgNw-F9c! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 011_Online games system design frontend PART 1  online game software architecture_46-00.md
+  Fetching transcript for EU81tjgoKoI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EU81tjgoKoI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 012_Online games System design backend_33-23.md
+  Fetching transcript for K3Z1PY2vr3Q...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=K3Z1PY2vr3Q! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 013_Learn System design  Distributed Systems Introduction  Horizontal scaling vertical scaling_17-20.md
+  Fetching transcript for OyTEd9h_CVQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=OyTEd9h_CVQ! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 014_Learn System design  Distributed datastores  RDBMS scaling problems  CAP theorem_21-08.md
+  Fetching transcript for l9JSK9OBzA4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=l9JSK9OBzA4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 015_Learn System design  How distributed datastore works(basics)_22-26.md
+  Fetching transcript for ZbyYvTfBlE0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ZbyYvTfBlE0! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 016_Dropbox system design  Google drive system design  System design file share and upload_45-32.md
+  Fetching transcript for U0xTu6E2CT8...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=U0xTu6E2CT8! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 017_Google Docs System design  Part 1 Operational transformation  differentail synchronisation_36-16.md
+  Fetching transcript for 2auwirNBvGg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=2auwirNBvGg! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 018_Google Docs System design  part 2 System components explanation micro services arcitecture_28-12.md
+  Fetching transcript for U2lVmSlDJhg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=U2lVmSlDJhg! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 019_Demystifying Docker_30-03.md
+  Fetching transcript for q1qEYM_SESI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=q1qEYM_SESI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 020_Distributed Locks  System design basics_28-50.md
+  Fetching transcript for v7x75aN9liM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=v7x75aN9liM! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+Processing: System Design Interview Preparation Series (14 files)
+============================================================
+
+  -> 001_System Design and Architecture Interview Preparation Series by FAANG Engineers_00-39.md
+  Fetching transcript for 3loACSxowRU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=3loACSxowRU! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 002_Database Design Tips  Choosing the Best Database in a System Design Interview_23-28.md
+  Fetching transcript for cODCpXtPHbQ...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=cODCpXtPHbQ! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 003_Google Maps System Design Interview Question_01-01-07.md
+  Fetching transcript for jk3yvVfNvds...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=jk3yvVfNvds! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 004_Netflix System Design  YouTube System Design  System Design Interview Question_01-04-49.md
+  Fetching transcript for lYoSd2WCJTo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lYoSd2WCJTo! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (lYoSd2WCJTo) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-GB ("English (United Kingdom)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 005_Twitter System Design  System Design Interview Question_47-54.md
+  Fetching transcript for EkudBdvbDhs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EkudBdvbDhs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 006_Facebook System Design  Instagram System Design  System Design Interview Question_46-51.md
+  Fetching transcript for 9-hjBGxuiEs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=9-hjBGxuiEs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 007_Uber System Design  Ola System Design  System Design Interview Question - Grab, Lyft_30-00.md
+  Fetching transcript for Tp8kpMe-ZKw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Tp8kpMe-ZKw! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (Tp8kpMe-ZKw) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 008_Amazon System Design  Flipkart System Design  System Design Interview Question_33-01.md
+  Fetching transcript for EpASu_1dUdE...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=EpASu_1dUdE! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 009_WhatsApp System Design  FB Messenger System Design  System Design Interview Question_27-51.md
+  Fetching transcript for RjQjbJ2UJDg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=RjQjbJ2UJDg! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 010_Zoom System Design  WhatsApp  FB Video Calling System Design  System Design Interview Question_56-01.md
+  Fetching transcript for G32ThJakeHk...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=G32ThJakeHk! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (G32ThJakeHk) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 011_TinyURL System Design  URL Shortner System Design Interview Question  Bitly System Design_24-36.md
+  Fetching transcript for AVztRY77xxA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=AVztRY77xxA! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 012_Airbnb System Design  Booking.com System Design  System Design Interview Question_38-57.md
+  Fetching transcript for YyOXt2MEkv4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=YyOXt2MEkv4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 013_Notification Service System Design Interview Question to handle Billions of users & Notifications_20-32.md
+  Fetching transcript for CUwt9_l0DOg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=CUwt9_l0DOg! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (CUwt9_l0DOg) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 014_System Design Interview - Tips & Tricks  Biggest Mistakes to Avoid_03-40.md
+  Fetching transcript for 4Q2fokImKfM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=4Q2fokImKfM! This is most likely caused by:
+
+No transcripts were found for any of the requested language codes: ['en']
+
+For this video (4Q2fokImKfM) transcripts are available in the following languages:
+
+(MANUALLY CREATED)
+ - en-US ("English (United States)")[TRANSLATABLE]
+
+(GENERATED)
+None
+
+(TRANSLATION LANGUAGES)
+ - ar ("Arabic")
+ - zh-Hant ("Chinese (Traditional)")
+ - nl ("Dutch")
+ - fr ("French")
+ - de ("German")
+ - hi ("Hindi")
+ - id ("Indonesian")
+ - it ("Italian")
+ - ja ("Japanese")
+ - ko ("Korean")
+ - pt ("Portuguese")
+ - ru ("Russian")
+ - es ("Spanish")
+ - th ("Thai")
+ - tr ("Turkish")
+ - uk ("Ukrainian")
+ - vi ("Vietnamese")
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+Processing: System design mock interviews (9 files)
+============================================================
+
+  -> 001_Google system design interview Design Spotify (with ex-Google EM)_42-13.md
+  Fetching transcript for _K-eupuDVEc...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=_K-eupuDVEc! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 002_Google system design interview Design TikTok (with ex-Google EM)_01-09-18.md
+  Fetching transcript for NHqdG-aZxOk...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=NHqdG-aZxOk! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 003_System design interview Design Robinhood (with ex-Google SWE)_42-33.md
+  Fetching transcript for Zvr-ffhvw0Y...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Zvr-ffhvw0Y! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 004_Twitter system design mock interview (with Senior Software Engineer)_54-33.md
+  Fetching transcript for 3yW856jAbZA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=3yW856jAbZA! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 005_Design file-sharing system like Google Drive  Dropbox  (System design interview with EM)_48-40.md
+  Fetching transcript for 4_qu1F9BXow...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=4_qu1F9BXow! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 006_FAANG system design interview Design YouTube (with FAANG Senior SWE)_46-20.md
+  Fetching transcript for hqa2sfoGRlI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=hqa2sfoGRlI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 007_Design LinkedIn - System design mock with Senior SWE at Amazon_52-51.md
+  Fetching transcript for ICu8g9auh8E...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=ICu8g9auh8E! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 008_[Private video]_00-00.md
+  Fetching transcript for B_tGJ65uXZU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=B_tGJ65uXZU! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is private
+
+Additional Details:
+ - If the owner of this video has granted you access, please 
+ - sign in
+ - .
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 009_Google  Meta system design interview Design Google Ads (with ex-Meta Staff SWE)_37-54.md
+  Fetching transcript for efaBYHvNvbA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=efaBYHvNvbA! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+Processing: System Design Walkthroughs (18 files)
+============================================================
+
+  -> 001_System Design Interview Design Ticketmaster w a Ex-Meta Staff Engineer_58-39.md
+  Fetching transcript for fhdPyoO6aXI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=fhdPyoO6aXI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 002_Design Uber w a Ex-Meta Staff Engineer System Design Interview breakdown_01-03-05.md
+  Fetching transcript for lsKU38RKQSo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=lsKU38RKQSo! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 003_Design Dropbox or Google Drive w a Ex-Meta Staff Engineer System Design Interview_58-08.md
+  Fetching transcript for _UZ1ngy-kOI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=_UZ1ngy-kOI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 004_Beginner System Design Interview Design Bitly w a Ex-Meta Staff Engineer_59-30.md
+  Fetching transcript for iUU4O1sWtJA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=iUU4O1sWtJA! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 005_System Design Interview Walkthrough Design Twitter_23-04.md
+  Fetching transcript for Nfa-uUHuFHg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Nfa-uUHuFHg! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 006_Design Whatsapp System Design Interview w a Ex-Meta Senior Manager_58-12.md
+  Fetching transcript for cr6p0n0N-VA...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=cr6p0n0N-VA! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 007_Design an Ad Click Aggregator w a Ex-Meta Staff Engineer System Design Interview_01-02-22.md
+  Fetching transcript for Zcv_899yqhI...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Zcv_899yqhI! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 008_Design a Web Crawler System Design Interview w a Ex-Meta Staff Engineer_01-05-04.md
+  Fetching transcript for krsuaUp__pM...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=krsuaUp__pM! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 009_System Design Interview Design YouTube w a Ex-Meta Staff Engineer_42-39.md
+  Fetching transcript for IUrQ5_g3XKs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=IUrQ5_g3XKs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 010_Design a Distributed Rate Limiter w a Ex-Meta Staff Engineer System Design Breakdown_55-58.md
+  Fetching transcript for MIJFyUPG4Z4...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=MIJFyUPG4Z4! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 011_System Design Interview Design LeetCode (Online Judge) w a Ex-Meta Staff Engineer_01-03-34.md
+  Fetching transcript for 1xHADtekTNg...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1xHADtekTNg! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 012_System Design Interview Design Tinder w a Ex-Meta Staff Engineer_01-13-22.md
+  Fetching transcript for 18Fg5Akhkqw...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=18Fg5Akhkqw! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 013_System Design Interview Design Live Comments w a Ex-Meta Staff Engineer_56-15.md
+  Fetching transcript for LjLx0fCd1k8...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=LjLx0fCd1k8! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 014_Design FB News Feed System Design Interview w ex Meta Senior Manager_26-12.md
+  Fetching transcript for Qj4-GruzyDU...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=Qj4-GruzyDU! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 015_Top-K System Design Interview Breakdown w Ex-Meta Senior Manager_01-31-38.md
+  Fetching transcript for y-tA2NW4LNY...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=y-tA2NW4LNY! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 016_Design FB Post Search System Design Interview breakdown w ex Meta Interviewer_01-08-27.md
+  Fetching transcript for l38XL9914fs...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=l38XL9914fs! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 017_System Design Interview Design an Ad Click Aggregator w a Ex-Meta Staff Engineer (old)_56-03.md
+  Fetching transcript for 1oFVUT4_Yy0...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1oFVUT4_Yy0! This is most likely caused by:
+
+YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+- You have done too many requests and your IP has been blocked by YouTube
+- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+
+Ways to work around this are explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+  -> 018_[Private video]_00-00.md
+  Fetching transcript for 1lfktgZ9Eeo...
+  [ERROR] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=1lfktgZ9Eeo! This is most likely caused by:
+
+The video is unplayable for the following reason: This video is private
+
+Additional Details:
+ - If the owner of this video has granted you access, please 
+ - sign in
+ - .
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+
+============================================================
+DONE: 0 transcripts added, 177 skipped, 0 errors
+============================================================

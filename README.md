@@ -1,4 +1,4 @@
-# [Click here for Better UI](https://sayantan-b-dev.github.io/SystemDesign/)
+# [Click here for Better UI](https://sayantan-b-dev.github.io/SM_SystemDesign/)
 
 
 | Rank | Playlist Title | Creator | Videos | Avg Length | Total Length | At 1.5x | At 2.0x |
